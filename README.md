@@ -23,9 +23,11 @@ Limpeza: R$15
 Blindagem: R$150
 Alongamento: R$200
 
-# EXEMPLOS
+# Exemplos
 
 <img src="https://blog.oscarcalcados.com.br/wp-content/uploads/2021/09/unahs-decoradas.png" alt="Exemplos">
+<img src="![image](https://github.com/zn1ck1/Manicure-/assets/151533728/01709102-e828-45b6-a7ba-4f7fb52642b1)
+" alt="Exemplos">
 Origem: conversação com o Bing, 11/12/2023
 (1) Manicuro – Wikipédia, a enciclopédia livre. https://pt.wikipedia.org/wiki/Manicuro.
 (2) Manicure e Pedicure: entenda os benefícios para suas unhas - Trois Beauté. https://www.troisbeaute.com.br/os-beneficios-da-manicure-e-pedicure/.
