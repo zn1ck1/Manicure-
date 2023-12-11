@@ -17,8 +17,15 @@ Separamos 5 benefícios que a manicure e pedicure garantem e vamos detalhar cada
 
 # Serviços
 
-Esmaltação, cuticulagem, limpeza, blindagem, alongamento
+Esmaltação: R$15
+Cuticulagem: R$10
+Limpeza: R$15
+Blindagem: R$150
+Alongamento: R$200
 
+# EXEMPLOS
+
+<img src="https://blog.oscarcalcados.com.br/wp-content/uploads/2021/09/unahs-decoradas.png" alt="Exemplos">
 Origem: conversação com o Bing, 11/12/2023
 (1) Manicuro – Wikipédia, a enciclopédia livre. https://pt.wikipedia.org/wiki/Manicuro.
 (2) Manicure e Pedicure: entenda os benefícios para suas unhas - Trois Beauté. https://www.troisbeaute.com.br/os-beneficios-da-manicure-e-pedicure/.
