@@ -27,6 +27,8 @@ Alongamento: R$200
 
 <img src="https://blog.oscarcalcados.com.br/wp-content/uploads/2021/09/unahs-decoradas.png" alt="Exemplos">
 <img src="https://nati.com.br/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-22-at-4-compressed-1.jpg" alt="Mais Exemplos">
-Origem: conversação com o Bing, 11/12/2023
-(1) Manicuro – Wikipédia, a enciclopédia livre. https://pt.wikipedia.org/wiki/Manicuro.
-(2) Manicure e Pedicure: entenda os benefícios para suas unhas - Trois Beauté. https://www.troisbeaute.com.br/os-beneficios-da-manicure-e-pedicure/.
+
+# Contato
+
+Número de telefone: (57) 9937-2945
+Instagram: @nicole_nails
