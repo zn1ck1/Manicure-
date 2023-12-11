@@ -15,6 +15,9 @@ Separamos 5 benefícios que a manicure e pedicure garantem e vamos detalhar cada
 4 Alívio de estresse.
 5 Melhora da Autoestima.
 
+# Serviços
+
+Esmaltação, cuticulagem, limpeza, blindagem, alongamento
 
 Origem: conversação com o Bing, 11/12/2023
 (1) Manicuro – Wikipédia, a enciclopédia livre. https://pt.wikipedia.org/wiki/Manicuro.
