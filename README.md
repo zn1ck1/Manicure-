@@ -9,11 +9,11 @@ A manicure consiste da apresentação, a modelagem da borda livre, tratamentos, 
 
 Separamos 5 benefícios que a manicure e pedicure garantem e vamos detalhar cada um deles:
 
-#1 Limpeza.
-#2 Melhora da circulação sanguínea.
-#3 Prevenção contra fungos.
-#4 Alívio de estresse.
-#5 Melhora da Autoestima.
+1 Limpeza.
+2 Melhora da circulação sanguínea.
+3 Prevenção contra fungos.
+4 Alívio de estresse.
+5 Melhora da Autoestima.
 
 
 Origem: conversação com o Bing, 11/12/2023
